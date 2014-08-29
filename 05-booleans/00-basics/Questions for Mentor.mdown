@@ -1,0 +1,3 @@
+# Assignment 05-booleans / 00-basics
+1. Did I do my outsideRanges function ideally? I feel like there could be another way to write it.
+
